@@ -16,3 +16,5 @@ git push
 
 Vaata ka minu konspekti WP-portfoolios:
 <a href="https://nicolegulojan24.thkit.ee/wp/" target="_blank">WP link</a>
+
+![pilt](https://github.com/user-attachments/assets/4fbc93eb-72db-4aad-8288-d085e0a3ebd6)
